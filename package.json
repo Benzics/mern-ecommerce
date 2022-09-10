@@ -1,0 +1,19 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "A simple eCommerce SPA built with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benzics/mern-ecommerce.git"
+  },
+  "author": "Benjamin Ojobo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Benzics/mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/Benzics/mern-ecommerce#readme"
+}

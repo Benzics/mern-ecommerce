@@ -4,7 +4,7 @@ const Rating = ({ value, text, color }) => {
   let stars = []
   for (let i = 0; i < 5; i++) {
     stars.push(
-      <span>
+      <span key={i}>
         <i
           style={{ color }}
           className={
@@ -18,7 +18,7 @@ const Rating = ({ value, text, color }) => {
       </span>
     )
   }
-  console.log('star', stars)
+
   return (
     <div className='rating'>
       {stars}

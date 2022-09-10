@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Benzics/mern-ecommerce/issues"
   },
-  "homepage": "https://github.com/Benzics/mern-ecommerce#readme"
+  "homepage": "https://github.com/Benzics/mern-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
